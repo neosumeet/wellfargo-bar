@@ -10,3 +10,4 @@ echo "$ENV for $variable" >> test
 
 echo "[INFO] GIT Jenkins Integratioon Demo"
 echo "[INFO] POLL SCM Demo"
+echo "[INFO] UCD Integration"
